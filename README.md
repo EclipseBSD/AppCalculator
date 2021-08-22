@@ -1,16 +1,23 @@
-# calculator_app
+# AppCalculator
 
-A new Flutter project.
+# (PT/BR)
 
-## Getting Started
+🖩 Uma calculadora básica feito inteira no framework Flutter usando Dart como linguagem.
 
-This project is a starting point for a Flutter application.
+🖩 Nela possui as funções básicas de uma calculadora, adicionando também uma função pi para ajudar aqueles que necessitam usar.
 
-A few resources to get you started if this is your first Flutter project:
+OBS: Podem conter alguns bugs de rolagem e dimensão que eu ainda não consertei, pode não estar perfeito ainda!!
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# (EN/US)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🖩 A basic calculator made entirely in the Flutter framework using Dart as language.
+
+🖩 It has the basic functions of a calculator, also adding a pi function to help those who need to use it.
+
+PS: May contain some scrolling and dimension bugs that I haven't fixed yet, it may not be perfect yet!!
+
+
+
+
+
+
