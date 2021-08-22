@@ -16,6 +16,9 @@ OBS: Podem conter alguns bugs de rolagem e dimensão que eu ainda não consertei
 
 PS: May contain some scrolling and dimension bugs that I haven't fixed yet, it may not be perfect yet!!
 
+### Image example:
+
+![Final result](https://raw.githubusercontent.com/Saturn-Dev/AppCalculator/master/example.png?token=ASZ3OTKFUKZ7XUV26HVWQKDBEKMB4)
 
 
 
