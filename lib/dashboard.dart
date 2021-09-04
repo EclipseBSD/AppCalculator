@@ -3,8 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:math_expressions/math_expressions.dart';
 
-//Criando uma calculadora gostosa mais que o trap.
-
 class CalculatorApp extends StatefulWidget {
   const CalculatorApp({Key? key}) : super(key: key);
 
